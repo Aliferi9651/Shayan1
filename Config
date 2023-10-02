@@ -1,0 +1,6 @@
+tuic://48aede45-e5fe-40f2-b654-aa471bd74226:8305b5ba59773d39@31.214.157.235:80/?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#TUIC
+tuic://48aede45-e5fe-40f2-b654-aa471bd74226:8305b5ba59773d39@[2a0b:7140:6:1:5054:ff:fede:b704]:80/?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#TUIC
+hy2://cff1bf29dd2226f2@31.214.157.235:443/?insecure=1&sni=www.google.com#HY2
+hy2://cff1bf29dd2226f2@[2a0b:7140:6:1:5054:ff:fede:b704]:443/?insecure=1&sni=www.google.com#HY2
+vless://91883fc2-97d2-4215-8833-521e466e4165@31.214.157.235:2095/?type=grpc&encryption=none&serviceName=8ea7a45d&sni=www.tradingview.com&fp=firefox&security=reality&pbk=Gc0rRcKqPZcAXTI9chMq6hWWCsv4TFcepZnyAmLWdVI&sid=1ebdce92ec7169ad#Reality
+vless://91883fc2-97d2-4215-8833-521e466e4165@[2a0b:7140:6:1:5054:ff:fede:b704]:2095/?type=grpc&encryption=none&serviceName=8ea7a45d&sni=www.tradingview.com&fp=firefox&security=reality&pbk=Gc0rRcKqPZcAXTI9chMq6hWWCsv4TFcepZnyAmLWdVI&sid=1ebdce92ec7169ad#Reality
